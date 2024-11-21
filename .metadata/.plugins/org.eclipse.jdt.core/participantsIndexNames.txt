@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3283536687.index
+\registration_page\src\main\resources

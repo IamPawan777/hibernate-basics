@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.example.entity.Person" table="person1" >
+		<id name="id" >
+			<generator class="increment"></generator>
+		</id>
+		<property name="name"/>
+		
+		<joined-subclass name="com.example.entity.Employee" table="Emp2" >
+		<key column="empId"></key>
+			<property name="job" />
+			<property name="salary" type="double" />
+		</joined-subclass>
+		
+		<joined-subclass name="com.example.entity.Student" table="std3">
+		<key column="stdId"></key>
+			<property name="course"/>
+			<property name="fees"/>
+		</joined-subclass>
+	</class>
+</hibernate-mapping>

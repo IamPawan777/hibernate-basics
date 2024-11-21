@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.example.entity.Person" table="tableperclass1212" discriminator-value="person">
+		<id name="id" />
+		<discriminator column="identify"/>
+		<property name="name"/>
+		
+		<subclass name="com.example.entity.Employee" discriminator-value="employee">
+			<property name="job" />
+			<property name="salary" type="double" />
+		</subclass>
+		
+		<subclass name="com.example.entity.Student" discriminator-value="student">
+			<property name="course"/>
+			<property name="fees"/>
+		</subclass>
+	</class>
+</hibernate-mapping>
