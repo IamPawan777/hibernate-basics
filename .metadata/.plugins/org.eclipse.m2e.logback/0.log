@@ -4970,3 +4970,4 @@ java.net.UnknownHostException: java.sun.com
 2024-11-14 21:46:59,281 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2024-11-14 21:47:01,979 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
 2024-11-14 21:49:00,097 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.6.1.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.6.1.Final
+2024-11-22 00:06:51,585 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
