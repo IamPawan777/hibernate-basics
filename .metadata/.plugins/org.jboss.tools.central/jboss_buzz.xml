@@ -1,153 +1,328 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-10-16T00:54:41Z</updated>
+  <updated>2024-12-18T12:22:50Z</updated>
   <link href="https://tools.jboss.org"/>
   <xhtml:meta content="noindex" name="robots" xmlns:xhtml="http://www.w3.org/1999/xhtml"/><entry>
-    <title>Red Hat Developer: Rest in peace: GCC Toolset and GNU Debugger</title>
-    <updated>2024-10-15T07:00:00Z</updated>
-    <id>296e98b6-74fa-431f-bb2d-eeacafc0db09</id>
-    <link href="https://developers.redhat.com/articles/2024/10/15/rest-peace-gcc-toolset-and-gnu-debugger" rel="alternate"/>
+    <title>Red Hat Developer: Our top learning paths of 2024</title>
+    <updated>2024-12-18T07:00:00Z</updated>
+    <id>14679712-3506-49b2-b337-5859fbd40e61</id>
+    <link href="https://developers.redhat.com/articles/2024/12/18/our-top-learning-paths-2024" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: How oc-mirror version 2 enables disconnected installations in OpenShift 4.16</title>
-    <updated>2024-10-14T07:00:00Z</updated>
-    <id>09c59a53-052d-4e66-8dac-8c244fa1925a</id>
-    <link href="https://developers.redhat.com/articles/2024/10/14/how-oc-mirror-version-2-enables-disconnected-installations-openshift-416" rel="alternate"/>
+    <title>Red Hat Developer: Rootless virtual machines with KVM and QEMU</title>
+    <updated>2024-12-18T07:00:00Z</updated>
+    <id>448390f7-5f41-43a3-b39c-2eb1db68c756</id>
+    <link href="https://developers.redhat.com/articles/2024/12/18/rootless-virtual-machines-kvm-and-qemu" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: Storage and data protection for OpenShift Virtualization</title>
-    <updated>2024-10-10T07:00:00Z</updated>
-    <id>c07994ed-fd7f-48a8-b8ce-b8e2b2e05669</id>
-    <link href="https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization" rel="alternate"/>
+    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/next-lts-3-20/</id>
+    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: Get started with the Keycloak Collection</title>
-    <updated>2024-10-10T07:00:00Z</updated>
-    <id>f2ac0783-0cc0-469d-9e86-1d61aebac701</id>
-    <link href="https://developers.redhat.com/articles/2024/10/10/get-started-keycloak-collection" rel="alternate"/>
+    <title>JBoss Blogs: Our next LTS will be Quarkus 3.20</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/next-lts-3-20/</id>
+    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Meet Keycloak at KubeCon Salt Lake City, Utah in Nov 2024</title>
-    <updated>2024-10-10T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/10/keycloak-kubeconf24-na-slc-announcement</id>
-    <link href="https://www.keycloak.org/2024/10/keycloak-kubeconf24-na-slc-announcement" rel="alternate"/>
+    <title>Red Hat Developer: Our top AI articles of 2024</title>
+    <updated>2024-12-17T08:00:00Z</updated>
+    <id>2458b01e-3d5d-4962-a2e7-250a06cd2b27</id>
+    <link href="https://developers.redhat.com/articles/2024/12/17/our-top-ai-articles-2024" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Introducing Jakarta Data in WildFly Preview</title>
-    <updated>2024-10-10T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/10/10/jakarta-data/</id>
-    <link href="https://wildfly.org//news/2024/10/10/jakarta-data/" rel="alternate"/>
+    <title>Red Hat Developer: Example-CNF: Automating the deployment of DPDK-based network functions on OpenShift with fault tolerance</title>
+    <updated>2024-12-17T07:00:00Z</updated>
+    <id>4a5a7b98-b820-4e04-819b-17af52cfe329</id>
+    <link href="https://developers.redhat.com/articles/2024/12/17/example-cnf-automating-deployment-dpdk-based-network-functions-openshift-fault" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: Function and event orchestration with OpenShift serverless logic</title>
-    <updated>2024-10-09T07:00:00Z</updated>
-    <id>ec5add8e-1a1b-40c9-b37c-88d7106a7bb8</id>
-    <link href="https://developers.redhat.com/articles/2024/10/09/openshift-serverless-logic-ga" rel="alternate"/>
+    <title>Red Hat Developer: Automatic certificate issuing with IdM and cert-manager operator for OpenShift</title>
+    <updated>2024-12-17T07:00:00Z</updated>
+    <id>d909dcb6-8bb7-4a31-87b9-b8bf9a2a766d</id>
+    <link href="https://developers.redhat.com/articles/2024/12/17/automatic-certificate-issuing-idm-and-cert-manager-operator-openshift" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: Enhance security with system-wide crypto policies in RHEL 9</title>
-    <updated>2024-10-09T07:00:00Z</updated>
-    <id>32e73562-d12a-4111-b6b0-abbead9f0cbc</id>
-    <link href="https://developers.redhat.com/articles/2024/10/09/enhance-security-system-wide-crypto-policies-rhel-9" rel="alternate"/>
+    <title>JBoss Blogs: Introducing Vertx Subsystem in WildFly Preview</title>
+    <updated>2024-12-17T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/12/17/vertx-subsystem-in-preview/</id>
+    <link href="https://wildfly.org//news/2024/12/17/vertx-subsystem-in-preview/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to use AMD GPUs for model serving in OpenShift AI</title>
-    <updated>2024-10-08T07:00:00Z</updated>
-    <id>dccd80d1-5c08-47c8-a8ce-2fd281374aec</id>
-    <link href="https://developers.redhat.com/articles/2024/10/08/amd-gpus-model-serving-openshift" rel="alternate"/>
+    <title>JBoss Blogs: Storing sessions in Keycloak 26</title>
+    <updated>2024-12-17T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/12/storing-sessions-in-kc26</id>
+    <link href="https://www.keycloak.org/2024/12/storing-sessions-in-kc26" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: Generative AI large language model prompt patterns: Tips for developers</title>
-    <updated>2024-10-08T07:00:00Z</updated>
-    <id>bf287312-033a-4a65-81a7-13e665dac009</id>
-    <link href="https://developers.redhat.com/articles/2024/10/08/ai-llm-prompt-patterns-developers" rel="alternate"/>
+    <title>Red Hat Developer: Step-by-step guide to configuring alerts in Cluster Observability Operator</title>
+    <updated>2024-12-16T07:00:00Z</updated>
+    <id>bdc1d4ee-b81f-49d8-953b-bd78b5e85c38</id>
+    <link href="https://developers.redhat.com/articles/2024/12/16/step-step-guide-configuring-alerts-cluster-observability-operator" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Backwards compatibility in Keycloak releases</title>
-    <updated>2024-10-08T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/10/release-updates</id>
-    <link href="https://www.keycloak.org/2024/10/release-updates" rel="alternate"/>
+    <title>Red Hat Developer: Introducing Builds for OpenShift 1.2</title>
+    <updated>2024-12-16T07:00:00Z</updated>
+    <id>5ff907c7-43c4-46ff-82e8-816649ee68f1</id>
+    <link href="https://developers.redhat.com/articles/2024/12/16/introducing-builds-openshift-12" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: Manage MicroShift with Red Hat Advanced Cluster Management and OpenShift GitOps</title>
-    <updated>2024-10-07T07:00:00Z</updated>
-    <id>6fcd9065-84f7-49f6-9da1-952845668fe9</id>
-    <link href="https://developers.redhat.com/articles/2024/10/07/manage-microshift-red-hat-advanced-cluster-management-and-openshift-gitops" rel="alternate"/>
+    <title>Red Hat Developer: Our top Linux articles of 2024</title>
+    <updated>2024-12-16T07:00:00Z</updated>
+    <id>ff3610b5-738a-4a78-8b47-419deb35b38c</id>
+    <link href="https://developers.redhat.com/articles/2024/12/16/our-top-linux-articles-2024" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: Deploy a coding copilot model with OpenShift AI</title>
-    <updated>2024-10-07T07:00:00Z</updated>
-    <id>0dd1d19e-230f-4109-8895-d3b2838da570</id>
-    <link href="https://developers.redhat.com/articles/2024/10/07/deploy-coding-copilot-model-openshift-ai" rel="alternate"/>
+    <title>Red Hat Developer: Monitoring OpenShift Virtualization at scale with Red Hat Advanced Cluster Management: Part 2</title>
+    <updated>2024-12-16T07:00:00Z</updated>
+    <id>f142ffd6-884e-43eb-9d6f-413c80ef1798</id>
+    <link href="https://developers.redhat.com/articles/2024/12/16/monitoring-openshift-virtualization-scale-red-hat-advanced-cluster-management" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Supporting Multiple Redis Databases with Infinispan cache aliases enhancement</title>
-    <updated>2024-10-07T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/10/07/cache-aliases-redis-databases</id>
-    <link href="https://infinispan.org/blog/2024/10/07/cache-aliases-redis-databases" rel="alternate"/>
+    <title>JBoss Blogs: Infinispan 15.1.0.Final</title>
+    <updated>2024-12-16T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/12/16/infinispan-15-1</id>
+    <link href="https://infinispan.org/blog/2024/12/16/infinispan-15-1" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Announcement for the Upcoming WildFly Mini Conference!</title>
-    <updated>2024-10-07T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/10/07/WildFly-mini-conference-session-form/</id>
-    <link href="https://wildfly.org//news/2024/10/07/WildFly-mini-conference-session-form/" rel="alternate"/>
+    <title>Red Hat Developer: Brief overview of Cluster Observability Operator</title>
+    <updated>2024-12-13T07:00:00Z</updated>
+    <id>1a1e1f4a-959e-4694-9899-5d03d549026d</id>
+    <link href="https://developers.redhat.com/articles/2024/12/13/brief-overview-cluster-observability-operator" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 26.0.0 released</title>
-    <updated>2024-10-04T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/10/keycloak-2600-released</id>
-    <link href="https://www.keycloak.org/2024/10/keycloak-2600-released" rel="alternate"/>
+    <title>JBoss Blogs: Quarkus Newsletter #51 - December</title>
+    <updated>2024-12-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-51/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-51/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Debug a provisioned WildFly server with the help of wildfly-maven-plugin</title>
-    <updated>2024-10-04T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/10/04/debug-with-maven-wildfly-plugin/</id>
-    <link href="https://wildfly.org//news/2024/10/04/debug-with-maven-wildfly-plugin/" rel="alternate"/>
+    <title>JBoss Blogs: WildFly 35 Beta is released!</title>
+    <updated>2024-12-12T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/12/12/WildFly35Beta-released/</id>
+    <link href="https://wildfly.org//news/2024/12/12/WildFly35Beta-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: How to monitor and invalidate HTTP Sessions in WildFly</title>
-    <updated>2024-10-03T13:06:35Z</updated>
-    <id>https://www.mastertheboss.com/jbossas/jboss-cluster/jboss-monitoring-http-session-replication/</id>
-    <link href="https://www.mastertheboss.com/jbossas/jboss-cluster/jboss-monitoring-http-session-replication/" rel="alternate"/>
+    <title>Quarkus: Quarkus Newsletter #51 - December</title>
+    <updated>2024-12-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-51/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-51/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: The Best Startup Book I Read in 2024: Falling in Love with the Problem, Not the Solution</title>
-    <updated>2024-10-03T11:46:00Z</updated>
-    <id>http://www.ofbizian.com/2024/10/the-best-startup-book-i-read-in-2024.html</id>
-    <link href="http://www.ofbizian.com/2024/10/the-best-startup-book-i-read-in-2024.html" rel="alternate"/>
+    <title>JBoss Blogs: Videos for the holidays and meet us at FOSDEM!</title>
+    <updated>2024-12-12T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/12/keycloak-at-froscon-2024</id>
+    <link href="https://www.keycloak.org/2024/12/keycloak-at-froscon-2024" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Coping with Failures during Long Running Actions</title>
-    <updated>2024-09-30T18:44:00Z</updated>
-    <id>https://jbossts.blogspot.com/2024/09/coping-with-failures-during-long.html</id>
-    <link href="https://jbossts.blogspot.com/2024/09/coping-with-failures-during-long.html" rel="alternate"/>
+    <title>JBoss Blogs: Quarkus 3.17.4 - Maintenance release</title>
+    <updated>2024-12-11T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-4-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 34 Beta is released!</title>
-    <updated>2024-09-26T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/09/26/WildFly34Beta-released/</id>
-    <link href="https://wildfly.org//news/2024/09/26/WildFly34Beta-released/" rel="alternate"/>
+    <title>JBoss Blogs: What's new in Vert.x 5</title>
+    <updated>2024-12-11T00:00:00Z</updated>
+    <id>https://vertx.io/blog/whats-new-in-vert-x-5</id>
+    <link href="https://vertx.io/blog/whats-new-in-vert-x-5" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.4 - Maintenance release</title>
+    <updated>2024-12-11T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-4-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 3 released!</title>
+    <updated>2024-12-11T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-3-released</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-3-released" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Migrate from Vert.x 4 to Vert.x 5</title>
+    <updated>2024-12-11T00:00:00Z</updated>
+    <id>https://vertx.io/blog/from-vert-x-4-to-vert-x-5</id>
+    <link href="https://vertx.io/blog/from-vert-x-4-to-vert-x-5" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus and Raspberry Pi - this time on bare metal</title>
+    <updated>2024-12-09T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-rpi-bare-metal/</id>
+    <link href="https://quarkus.io/blog/quarkus-rpi-bare-metal/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak Adopts Terraform Provider</title>
+    <updated>2024-12-09T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/12/terraform-provider-adoption</id>
+    <link href="https://www.keycloak.org/2024/12/terraform-provider-adoption" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus and Raspberry Pi - this time on bare metal</title>
+    <updated>2024-12-09T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-rpi-bare-metal/</id>
+    <link href="https://quarkus.io/blog/quarkus-rpi-bare-metal/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Recap Keycloak at KubeCon NA 2024</title>
+    <updated>2024-12-04T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/12/keycloak-at-kubecon-na-2024-recap</id>
+    <link href="https://www.keycloak.org/2024/12/keycloak-at-kubecon-na-2024-recap" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.17.3 - Maintenance release</title>
+    <updated>2024-12-04T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-3-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.3 - Maintenance release</title>
+    <updated>2024-12-04T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-3-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: JGroups 5.4 released</title>
+    <updated>2024-12-03T09:52:00Z</updated>
+    <id>http://belaban.blogspot.com/2024/12/jgroups-54-released.html</id>
+    <link href="http://belaban.blogspot.com/2024/12/jgroups-54-released.html" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 26.0.7 released</title>
+    <updated>2024-12-03T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/12/keycloak-2607-released</id>
+    <link href="https://www.keycloak.org/2024/12/keycloak-2607-released" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.17.2 - Maintenance release</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-jlama/</id>
+    <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.2 - Maintenance release</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-jlama/</id>
+    <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Issue tracking migration from Jira to GitHub</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/11/29/github-issues</id>
+    <link href="https://infinispan.org/blog/2024/11/29/github-issues" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17 - Observability improvements, programmatic permission checkers, MicroProfile REST Client 4.0</title>
+    <updated>2024-11-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-0-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.16.4 - Maintenance release</title>
+    <updated>2024-11-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-16-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-16-4-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.15.2 released - LTS maintenance release</title>
+    <updated>2024-11-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-2-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.16.3 - Maintenance release</title>
+    <updated>2024-11-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-16-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-16-3-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #50 - November</title>
+    <updated>2024-11-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-50/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-50/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.16.2 - Maintenance release</title>
+    <updated>2024-11-06T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-16-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-16-2-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.16 - OpenTelemetry Logging, LGTM Quarkus dashboard and too many things to list here</title>
+    <updated>2024-10-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-16-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-16-1-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
+    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #49 - October</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -158,59 +333,10 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.15 - new LTS version</title>
-    <updated>2024-09-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Hacktoberfest 2024</title>
-    <updated>2024-09-23T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/09/23/Hacktoberfest-2024/</id>
-    <link href="https://wildfly.org//news/2024/09/23/Hacktoberfest-2024/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak 25.0.6 released</title>
-    <updated>2024-09-19T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/09/keycloak-2506-released</id>
-    <link href="https://www.keycloak.org/2024/09/keycloak-2506-released" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: WildFly 33.0.2 is released!</title>
-    <updated>2024-09-17T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/09/17/WildFly3302-Released/</id>
-    <link href="https://wildfly.org//news/2024/09/17/WildFly3302-Released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Using the Expansion Operator with WildFly CLI</title>
-    <updated>2024-09-15T21:10:07Z</updated>
-    <id>https://www.mastertheboss.com/jbossas/jboss-script/using-the-expansion-operator-with-wildfly-cli/</id>
-    <link href="https://www.mastertheboss.com/jbossas/jboss-script/using-the-expansion-operator-with-wildfly-cli/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.14.4 - Maintenance release</title>
     <updated>2024-09-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-14-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-14-4-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.14.4 - Maintenance release</title>
-    <updated>2024-09-14T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-4-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #48 - September</title>
-    <updated>2024-09-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-48/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -222,20 +348,6 @@
   </entry>
   <entry>
     <title>Quarkus: Quarkus 3.14.3 - Maintenance release, SBOM generation</title>
-    <updated>2024-09-11T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-3-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak Realm Configuration Management Tools Survey Results</title>
-    <updated>2024-09-11T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results</id>
-    <link href="https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.14.3 - Maintenance release, SBOM generation</title>
     <updated>2024-09-11T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-14-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-14-3-released/" rel="alternate"/>
@@ -396,17 +508,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
-    <updated>2024-06-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.29.1.final.html" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
     <updated>2024-06-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/granite-rag/</id>
     <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
+    <updated>2024-06-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.29.1.final.html" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -456,118 +568,6 @@
     <updated>2024-06-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/incubating-model-resolver/</id>
     <link href="https://quarkus.io/blog/incubating-model-resolver/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.11 - Dev Services for Observability, progress on WebSockets.next, Infinispan Cache extension and more</title>
-    <updated>2024-05-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-11-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-11-0-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
-    <updated>2024-05-22T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #44 - May</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
-    <updated>2024-04-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.9.5 released - Maintenance release</title>
-    <updated>2024-04-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Indexing rollover with Quarkus and Hibernate Search</title>
-    <updated>2024-04-25T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/search-indexing-rollover/</id>
-    <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
-    <updated>2024-04-23T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/heapdump-oome-native/</id>
-    <link href="https://quarkus.io/blog/heapdump-oome-native/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Ship.Cars leverages Quarkus to reach its goals</title>
-    <updated>2024-04-22T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/</id>
-    <link href="https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
-    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #43 - April</title>
-    <updated>2024-04-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.9.3 released - Maintenance release</title>
-    <updated>2024-04-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-3-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.9.2 released - Maintenance release</title>
-    <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>

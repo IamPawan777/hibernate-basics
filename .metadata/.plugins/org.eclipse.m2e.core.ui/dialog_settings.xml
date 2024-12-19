@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Language\Advance Java\hibernates\NoteTaker\src\main\java\com\connection\HibarnateUtility.java"/>
+			<item value="C:\Language\Advance Java\hibernates\p6-CRUD_Project\src\main\java\com\prog\entity\Student.java"/>
+			<item value="C:\Language\Advance Java\hibernates\NoteTaker\pom.xml"/>
 			<item value="C:\Language\Advance Java\hibernates\p6-CRUD_Project"/>
 			<item value="C:\Language\Advance Java\hibernates\Update_Delete_Data"/>
 			<item value="C:\Language\Advance Java\hibernates\FirstProject\src\main\java\com\example\App.java"/>
@@ -29,17 +32,25 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.caching"/>
 			<item value="com.crud"/>
+			<item value="com.crud.N"/>
 			<item value="com.prog"/>
 			<item value="com.prog.p10_OneToMany_Que_Ans"/>
 			<item value="com.example"/>
 		</list>
 		<list key="groupId">
+			<item value="com.caching"/>
 			<item value="com.crud"/>
 			<item value="com.prog"/>
 			<item value="com.example"/>
 		</list>
 		<list key="artifactId">
+			<item value="p13-Caching"/>
+			<item value="note_taker"/>
+			<item value="noteTakers"/>
+			<item value="N"/>
+			<item value="NoteTaker"/>
 			<item value="registration_page"/>
 			<item value="p10-OneToMany_Que_Ans"/>
 			<item value="CRUD_Project"/>

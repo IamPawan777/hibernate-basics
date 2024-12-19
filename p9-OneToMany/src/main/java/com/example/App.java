@@ -25,14 +25,14 @@ public class App
     	Answer a3 = new Answer();
     	Answer a4 = new Answer();
 
-    	a1.setAns_name("What is Java");
+    	a1.setAns_name("Java is programming language.");
     	a1.setAns_poatedBy("Harry");
-    	a2.setAns_name("What is Servlet");
+    	a2.setAns_name("Servlet is an API.");
     	a2.setAns_poatedBy("Sam");
-    	a3.setAns_name("What is Java");
-    	a3.setAns_poatedBy("Harry");
-    	a4.setAns_name("What is Servlet");
-    	a4.setAns_poatedBy("Sam");
+//    	a3.setAns_name("What is Java");
+//    	a3.setAns_poatedBy("Harry");
+//    	a4.setAns_name("What is Servlet");
+//    	a4.setAns_poatedBy("Sam");
     	
     	
     	
@@ -47,12 +47,12 @@ public class App
     	
     	
     	Question q1 = new Question();
-    	q1.setQ_name(" ");
+    	q1.setQ_name("What is java? ");
     	q1.setAnswer(list1);
     	
     	
     	Question q2 = new Question();
-    	q2.setQ_name("What is Servlet");
+    	q2.setQ_name("What is Servlet? ");
     	q2.setAnswer(list2);
     	
     	session.persist(q1);

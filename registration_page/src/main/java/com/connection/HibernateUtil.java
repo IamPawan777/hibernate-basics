@@ -5,20 +5,18 @@ import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
 public class HibernateUtil {
-	private static Configuration config = null;
-	private static SessionFactory factory = null;
+	private static Configuration cfg = null;
+	private static SessionFactory factory = null ;
 	
 	public static synchronized SessionFactory getSessionFactory() {
 		if(factory == null) {
-			config = new Configuration().configure();
-			factory = config.buildSessionFactory();
+			cfg = new Configuration().configure();
+			factory = cfg.buildSessionFactory();
 		}
 		return factory;
 	}
 	
 	
-//	private static SessionFactory factory;
-//	
 //	static {
 //		Configuration cfg = null;
 //		try {
@@ -29,11 +27,8 @@ public class HibernateUtil {
 //			e.printStackTrace();
 //		}
 //	}
-	// Session session = getSessionFactory.getSerssion();
-	// Traczaction
-	//session.save();
-	// trazaction.commit();
-	//session.close();
+	
+
 	
 	// open session
 	public static Session getSession(){

@@ -9,8 +9,11 @@ import com.entity.Employee;
 
 public class EmpDao {
 	
-public EmpDao(SessionFactory factory) {
+	private SessionFactory factory;
+	
+	public EmpDao(SessionFactory factory) {
 		super();
+		this.factory = factory;
 	}
 
 //	save

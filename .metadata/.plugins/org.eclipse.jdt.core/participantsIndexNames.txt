@@ -1,3 +1,13 @@
 INDEX VERSION 1.134
+C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\256403314.index
+\note_taker\src\main\java
+C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2389236961.index
+\NoteTaker\src\main\resources
+C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4281943110.index
+\note\src\main\java
 C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3283536687.index
 \registration_page\src\main\resources
+C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3270988396.index
+\noteTakers\src\main\resources
+C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2667158276.index
+\N\src\main\resources

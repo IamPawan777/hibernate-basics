@@ -52,22 +52,22 @@ public class App
     	ad2.setEmployee(empList);
     	
     	
-//    	session.persist(emp1);
-//    	session.persist(emp2);
-//    	session.persist(emp3);
-//    	session.persist(ad1);
-//    	session.persist(ad2);
-//    	
-//    	begin.commit();
-//    	session.close();
+    	session.persist(emp1);
+    	session.persist(emp2);
+    	session.persist(emp3);
+    	session.persist(ad1);
+    	session.persist(ad2);
+    	
+    	begin.commit();
+    	session.close();
     
 
 // Fetch............
-    	Employee e = (Employee)session.get(Employee.class, 2);
-    	System.out.println(e.getEmp_name());
-    	
-    	
-    	System.out.println("Successfully............");
+//    	Employee e = (Employee)session.get(Employee.class, 2);
+//    	System.out.println(e.getEmp_name());
+//    	
+//    	
+//    	System.out.println("Successfully............");
     	
     	
     	
