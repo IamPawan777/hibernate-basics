@@ -136,7 +136,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\note_taker" path="/note_taker" reloadable="true" source="org.eclipse.jst.j2ee.server:note_taker"/></Host>
+      <Context docBase="C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\note_taker" path="/note_taker" reloadable="true" source="org.eclipse.jst.j2ee.server:note_taker"/><Context docBase="C:\Language\Advance Java\hibernates\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\registration_page" path="/registration_page" reloadable="true" source="org.eclipse.jst.j2ee.server:registration_page"/></Host>
     </Engine>
   </Service>
 </Server>
