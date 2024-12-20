@@ -9,6 +9,8 @@
 	<name>note_taker Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
+	
+	
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
@@ -30,10 +32,7 @@
 			<version>8.0.28</version>
 		</dependency>
 
-
-
-		<!--
-		https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
+		<!--https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
 		<dependency>
 			<groupId>jakarta.servlet</groupId>
 			<artifactId>jakarta.servlet-api</artifactId>

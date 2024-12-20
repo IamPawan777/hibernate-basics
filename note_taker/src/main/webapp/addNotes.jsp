@@ -16,7 +16,7 @@
 		<%@include file="navbar.jsp"%>
 
 		<br>
-		<h2>Please fill your note details !</h2>
+		<h2>Please fill your notes details !</h2>
 		<br>
 		
 		<!-- from  -->
