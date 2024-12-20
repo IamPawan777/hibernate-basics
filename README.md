@@ -7,12 +7,12 @@
 
 ✔ Hibernate is Open Source so any type of application can build.
 
-✔ Hibernate simplifie the development of java application to **intract with Databases**.
+✔ Hibernate simplify the development of java application to **intract with Databases**.
 
 ✔ Hibernate replace the JDBC.
 ## 🎉 Advantages:
 
- - JDBC have some limitation (manually write databases code).
+ - JDBC have some limitation (manually write database code).
  - Hibernate is database indepandent.
  - Automate java code to directly store database.
  - Annotation
@@ -34,10 +34,10 @@
 ## ⏳ How to start project:
 
 - Create new maven project
-- Add maven depandacy in POM.XML file
+- Add maven depandacy in POM.XML file (hibernate, mysql, servlet, lombok etc)
 - Write code in configuration file (configuration.cfg.xml)
 - Write code in entity/pojo/persist class
-- Now Write code in App.java (main class)
+- Now Write code in App.java or main class (create session)
 
 
 ## 👯‍♀️ Object Relation:
@@ -60,7 +60,7 @@
 
 #### For improve performance of application
 - First level cache
-- First level cache
+- Second level cache
 
 
 ## 🛠 Pre-requisite:
